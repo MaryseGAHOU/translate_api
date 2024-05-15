@@ -4,6 +4,5 @@ python-multipart
 requests
 urllib.parse
 BeautifulSoup
-fastapi.middleware.cors 
 
 
