@@ -2,5 +2,7 @@ fastapi==0.111.0
 uvicorn
 python-multipart
 requests
+bs4
+urllib
 
 
